@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1" name="viewport">
 
-    <meta content="FrogBid (NEX) focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, FrogBid offers a one-stop shop for all of a company's digital needs."
+    <meta content="FrogBid focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, FrogBid offers a one-stop shop for all of a company's digital needs."
           name="description">
     <meta content="AI, WEB2, WEB3, Automation, frogbid Info Tech" name="keywords">
     <meta content="frogbid Info Tech" name="author">
 
     <meta content="FrogBid | AI, WEB2, WEB3 & Automation TECH" property="og:title"/>
-    <meta content="FrogBid (NEX) focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, FrogBid offers a one-stop shop for all of a company's digital needs."
+    <meta content="FrogBid focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, FrogBid offers a one-stop shop for all of a company's digital needs."
           property="og:description"/>
     <meta content="https://frogbid.com/assets/images/desktop/background.png" property="og:image"/>
     <meta content="image/png" property="og:image:type"/>
