@@ -5,24 +5,24 @@
     <meta content="width=device-width, initial-scale=1" name="viewport">
 
     <meta name="description"
-          content="Next Info Techs (NEX) focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, Next Info Techs offers a one-stop shop for all of a company's digital needs.">
-    <meta name="keywords" content="AI, WEB2, WEB3, Automation, Next Info Tech">
-    <meta name="author" content="Next Info Tech">
+          content="FrogBid (NEX) focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, FrogBid offers a one-stop shop for all of a company's digital needs.">
+    <meta name="keywords" content="AI, WEB2, WEB3, Automation, frogbid Info Tech">
+    <meta name="author" content="frogbid Info Tech">
 
-    <meta property="og:title" content="NEXT INFO TECHS | AI, WEB2, WEB3 & Automation TECH"/>
+    <meta property="og:title" content="FrogBid | AI, WEB2, WEB3 & Automation TECH"/>
     <meta property="og:description"
-          content="Next Info Techs (NEX) focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, Next Info Techs offers a one-stop shop for all of a company's digital needs."/>
-    <meta content="http://nextinfotechs.com/assets/images/desktop/background.png" property="og:image"/>
+          content="FrogBid (NEX) focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, FrogBid offers a one-stop shop for all of a company's digital needs."/>
+    <meta content="http://frogbidinfotechs.com/assets/images/desktop/background.png" property="og:image"/>
     <meta content="image/png" property="og:image:type"/>
     <meta content="1920" property="og:image:width"/>
     <meta content="1227" property="og:image:height"/>
-    <meta content="Next Info Techs Limited" property="og:image:alt"/>
-    <meta content="Next Info Techs Limited" property="og:description"/>
-    <meta content="https://nextinfotechs.com/" property="og:url"/>
+    <meta content="FrogBid" property="og:image:alt"/>
+    <meta content="FrogBid" property="og:description"/>
+    <meta content="https://frogbid.com/" property="og:url"/>
     <meta content="website" property="og:type"/>
 
 
-    <title>TERMS AND CONDITION | NEXT INFO TECHS</title>
+    <title>TERMS AND CONDITION | FrogBid</title>
     <link href="assets/images/logo/favicon.ico" rel="icon" type="image/x-icon">
 
     <link href="assets/vendor/Bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
@@ -31,7 +31,7 @@
     <link href="assets/css/style.css" rel="stylesheet"/>
 
     <style>
-        .next-work-title{
+        .frogbid-work-title{
             font-size: 30px;
         }
     </style>
@@ -42,17 +42,17 @@
 <header>
     <nav class="navbar navbar-expand-lg bg-nav fixed-top">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><img alt="" class="img-fluid next-logo"
-                                                  src="assets/images/logo/NEXT-logo.png"/></a>
+            <a class="navbar-brand" href="#"><img alt="" class="img-fluid frogbid-logo"
+                                                  src="assets/images/logo/frogbid-logo.png"/></a>
             <!--<div class="collapse-social-icons" style="position: inherit;margin-right: .75em;margin-left: auto">
                 <form class="d-flex" role="search">
-                    <a class="btn btn-success next-colapse-btn">Get started</a>
+                    <a class="btn btn-success frogbid-colapse-btn">Get started</a>
                 </form>
             </div>-->
             <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
                     class="navbar-toggler" data-bs-target="#navbarSupportedContent"
                     data-bs-toggle="collapse" type="button">
-                <i class="fa-solid fa-bars next-mobile-menu mobile-nav-icon"></i>
+                <i class="fa-solid fa-bars frogbid-mobile-menu mobile-nav-icon"></i>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0" id="myNav">
@@ -75,8 +75,8 @@
                         <a class="nav-link" href="Contact">CONTACT</a>
                     </li>
                 </ul>
-                <form class="d-flex next-nav-icon" role="search">
-                    <a class="btn btn-success next-btn-header"
+                <form class="d-flex frogbid-nav-icon" role="search">
+                    <a class="btn btn-success frogbid-btn-header"
                        href="https://api.whatsapp.com/message/VBCGRP7FAFCOD1?autoload=1&app_absent=0">
                         Get started
                     </a>
@@ -88,22 +88,22 @@
 <!-- Header End -->
 
 <!-- Title Start -->
-<section class="next-title">
-    <h1 class="text-center next-work-title text-white" style="font-size: 45px">Terms and Condition</h1>
+<section class="frogbid-title">
+    <h1 class="text-center frogbid-work-title text-white" style="font-size: 45px">Terms and Condition</h1>
 </section>
 <!-- Title End -->
 
 <!-- Contact Start -->
-<section class="next-web">
+<section class="frogbid-web">
     <div class="container pt-5 pb-5 text-center">
-        <h1 class="next-work-title text-start pt-5 pb-4">
+        <h1 class="frogbid-work-title text-start pt-5 pb-4">
             Terms and Condition
         </h1>
         <div class="row text-start mt-4">
             <div class="col-xl-12 mb-4 text-white">
                 <p>
                     By accessing this website we assume you accept these terms and conditions. Do not continue to use
-                    Next Info Tech if you do not agree to take all of the terms and conditions stated on this page.
+                    frogbid Info Tech if you do not agree to take all of the terms and conditions stated on this page.
                 </p>
                 <p>
                     The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer
@@ -122,22 +122,22 @@
                     same.
                 </p>
 
-                <h1 class="next-work-title text-start pt-5 pb-4">Cookies</h1>
+                <h1 class="frogbid-work-title text-start pt-5 pb-4">Cookies</h1>
                 <p>
-                    We employ the use of cookies. By accessing Next info Tech, you agreed to use cookies in agreement
-                    with the Next info Tech’s Privacy Policy.
+                    We employ the use of cookies. By accessing frogbid info Tech, you agreed to use cookies in agreement
+                    with the frogbid info Tech’s Privacy Policy.
                 </p>
                 <p>
                     Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies
                     are used by our website to enable the functionality of certain areas to make it easier for people
                     visiting our website. Some of our affiliate/advertising partners may also use cookies.
                 </p>
-                <h1 class="next-work-title text-start pt-5 pb-4">License</h1>
+                <h1 class="frogbid-work-title text-start pt-5 pb-4">License</h1>
                 <p>
-                    Unless otherwise stated, Next info Tech and/or its licensors own the intellectual property rights
-                    for all material on Next info Tech. All intellectual property rights are reserved. You may access
+                    Unless otherwise stated, frogbid info Tech and/or its licensors own the intellectual property rights
+                    for all material on frogbid info Tech. All intellectual property rights are reserved. You may access
                     this
-                    from Next info Tech for your own personal use subjected to restrictions set in these terms and
+                    from frogbid info Tech for your own personal use subjected to restrictions set in these terms and
                     conditions.
                 </p>
                 <p>
@@ -145,16 +145,16 @@
                 </p>
                 <ul>
                     <li>
-                        Republish material from Next info Tech
+                        Republish material from frogbid info Tech
                     </li>
                     <li>
-                        Sell, rent or sub-license material from Next info Tech
+                        Sell, rent or sub-license material from frogbid info Tech
                     </li>
                     <li>
-                        Reproduce, duplicate or copy material from Next info Tech
+                        Reproduce, duplicate or copy material from frogbid info Tech
                     </li>
                     <li>
-                        Redistribute content from Next info Tech
+                        Redistribute content from frogbid info Tech
                     </li>
                 </ul>
                 <p>
@@ -165,17 +165,17 @@
                 <p>
 
                     Parts of this website offer an opportunity for users to post and exchange opinions and information
-                    in certain areas of the website. Next info Tech does not filter, edit, publish or review Comments
+                    in certain areas of the website. frogbid info Tech does not filter, edit, publish or review Comments
                     prior
-                    to their presence on the website. Comments do not reflect the views and opinions of Next info
+                    to their presence on the website. Comments do not reflect the views and opinions of frogbid info
                     Tech,its
                     agents and/or affiliates. Comments reflect the views and opinions of the person who post their views
-                    and opinions. To the extent permitted by applicable laws, Next info Tech shall not be liable for the
+                    and opinions. To the extent permitted by applicable laws, frogbid info Tech shall not be liable for the
                     Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of
                     and/or posting of and/or appearance of the Comments on this website.
                 </p>
                 <p>
-                    Next info Tech reserves the right to monitor all Comments and to remove any Comments which can be
+                    frogbid info Tech reserves the right to monitor all Comments and to remove any Comments which can be
                     considered inappropriate, offensive or causes breach of these Terms and Conditions.
                 </p>
                 <p>You warrant and represent that:</p>
@@ -201,11 +201,11 @@
                     </li>
                 </ul>
                 <p>
-                    You hereby grant Next info Tech a non-exclusive license to use, reproduce, edit and authorize others
+                    You hereby grant frogbid info Tech a non-exclusive license to use, reproduce, edit and authorize others
                     to
                     use, reproduce and edit any of your Comments in any and all forms, formats or media.
                 </p>
-                <h1 class="next-work-title text-start pt-5 pb-4">Hyperlinking to our Content</h1>
+                <h1 class="frogbid-work-title text-start pt-5 pb-4">Hyperlinking to our Content</h1>
                 <p>The following organizations may link to our Website without prior written approval:</p>
                 <ul>
                     <li>
@@ -268,7 +268,7 @@
                     look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have
                     any
                     negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the
-                    absence of Next info Tech; and (d) the link is in the context of general resource information.
+                    absence of frogbid info Tech; and (d) the link is in the context of general resource information.
                 </p>
                 <p>
                     These organizations may link to our home page so long as the link: (a) is not in any way deceptive;
@@ -278,7 +278,7 @@
                 </p>
                 <p>
                     If you are one of the organizations listed in paragraph 2 above and are interested in linking to our
-                    website, you must inform us by sending an e-mail to Next info Tech. Please include your name, your
+                    website, you must inform us by sending an e-mail to frogbid info Tech. Please include your name, your
                     organization name, contact information as well as the URL of your site, a list of any URLs from
                     which
                     you intend to link to our Website, and a list of the URLs on our site to which you would like to
@@ -299,29 +299,29 @@
                         format of content on the linking party’s site.
                     </li>
                     <li>
-                        No use of Next info Tech’s logo or other artwork will be allowed for linking absent a trademark
+                        No use of frogbid info Tech’s logo or other artwork will be allowed for linking absent a trademark
                         license
                         agreement.
                     </li>
                 </ul>
 
 
-                <h1 class="next-work-title text-start pt-5 pb-4">iFrames</h1>
+                <h1 class="frogbid-work-title text-start pt-5 pb-4">iFrames</h1>
                 <p>Without prior approval and written permission, you may not create frames around our Webpages that
                     alter
                     in any way the visual presentation or appearance of our Website.</p>
 
-                <h1 class="next-work-title text-start pt-5 pb-4">Content Liability</h1>
+                <h1 class="frogbid-work-title text-start pt-5 pb-4">Content Liability</h1>
                 <p>We shall not be hold responsible for any content that appears on your Website. You agree to protect
                     and
                     defend us against all claims that is rising on your Website. No link(s) should appear on any Website
                     that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or
                     advocates the infringement or other violation of, any third party rights.</p>
 
-                <h1 class="next-work-title text-start pt-5 pb-4">Your Privacy</h1>
+                <h1 class="frogbid-work-title text-start pt-5 pb-4">Your Privacy</h1>
                 <p>Please read Privacy Policy</p>
 
-                <h1 class="next-work-title text-start pt-5 pb-4">Reservation of Rights</h1>
+                <h1 class="frogbid-work-title text-start pt-5 pb-4">Reservation of Rights</h1>
                 <p>We reserve the right to request that you remove all links or any particular link to our Website. You
                     approve to immediately remove all links to our Website upon request. We also reserve the right to
                     amen
@@ -329,7 +329,7 @@
                     Website,
                     you agree to be bound to and follow these linking terms and conditions.</p>
 
-                <h1 class="next-work-title text-start pt-5 pb-4">Removal of links from our website</h1>
+                <h1 class="frogbid-work-title text-start pt-5 pb-4">Removal of links from our website</h1>
                 <p>If you find any link on our Website that is offensive for any reason, you are free to contact and
                     inform
                     us any moment. We will consider requests to remove links but we are not obligated to or so or to
@@ -341,7 +341,7 @@
                     accuracy; nor do we promise to ensure that the website remains available or that the material on the
                     website is kept up to date.</p>
 
-                <h1 class="next-work-title text-start pt-5 pb-4">Disclaimer</h1>
+                <h1 class="frogbid-work-title text-start pt-5 pb-4">Disclaimer</h1>
                 <p>To the maximum extent permitted by applicable law, we exclude all representations, warranties and
                     conditions relating to our website and the use of this website. Nothing in this disclaimer will:
                 </p>
@@ -373,13 +373,13 @@
 <!-- Contact End -->
 
 <!-- Footer Start -->
-<section class="next-footer">
+<section class="frogbid-footer">
     <!-- Press Start -->
     <section class="container-fluid">
         <div class="row">
             <div class="col-lg-12 mt-3">
                 <div class="mt-5 mb-5">
-                    <div class="text-center next-section-title">
+                    <div class="text-center frogbid-section-title">
                         <h1>PRESS & MEDIA</h1>
                     </div>
                 </div>
@@ -401,41 +401,41 @@
     </section>
     <!-- Press End -->
     <div class="container pt-5 pb-5 text-center" id="contact">
-        <p class="next-footer-content">
+        <p class="frogbid-footer-content">
             LET'S WORK TOGETHER
         </p>
-        <h1 class="next-footer-title">
+        <h1 class="frogbid-footer-title">
             WE LOVE TO LISTEN TO <br/>
             YOUR REQUIREMENTS
         </h1>
-        <a class="btn btn-success next-btn-footer mt-3" href="#">
+        <a class="btn btn-success frogbid-btn-footer mt-3" href="#">
             Estimate project <i class="fa-solid fa-angle-right"></i>
         </a>
-        <p class="mt-4 next-footer-call">
+        <p class="mt-4 frogbid-footer-call">
             Or mail us now <br class="d-lg-none d-block"/>
-            <i class="fa-solid fa-envelope"></i> contact@nextinfotechs.com
+            <i class="fa-solid fa-envelope"></i> contact@frogbid.com
         </p>
     </div>
-    <div class="next-footer-social">
+    <div class="frogbid-footer-social">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6 text-lg-start text-center">
-                    <p class="next-footer-social-text">
+                    <p class="frogbid-footer-social-text">
                         <a class="footer-nav-link"
                            href="https://api.whatsapp.com/message/VBCGRP7FAFCOD1?autoload=1&app_absent=0"
                            target="_blank">
-                            <span class="next-whatsapp">Whatsapp:</span> +1 (646) 631-1557
+                            <span class="frogbid-whatsapp">Whatsapp:</span> +1 (646) 631-1557
                         </a>
                         &nbsp;
                         <span class="d-md-inline d-none">|</span>
                         &nbsp;
                         <a class="footer-nav-link" href="https://join.skype.com/invite/whLjFofI5M1I" target="_blank">
-                            <span class="next-skype">Skype:</span> live:.cid.6cb903025cfa5585
+                            <span class="frogbid-skype">Skype:</span> live:.cid.6cb903025cfa5585
                         </a>
                     </p>
                 </div>
                 <div class="col-lg-6 text-lg-end text-center">
-                    <p class="next-footer-social-text-2">
+                    <p class="frogbid-footer-social-text-2">
                         <a class="footer-nav-link" href="Contact">
                             Contact Us
                         </a>
@@ -475,13 +475,13 @@
                                 </a>
                             </div>
                             <div class="col-2 me-auto">
-                                <a href="mailto:contatc@nextinfotechs.com">
+                                <a href="mailto:contatc@frogbidinfotechs.com">
                                     <img alt="" class="img-fluid" src="assets/images/contact/icon/email2.png"/>
                                 </a>
                             </div>
                         </div>
-                        <p class="mt-3 next-footer-copyright">
-                            Copyright © 2023 Next info Techs Limited. All rights reserved.
+                        <p class="mt-3 frogbid-footer-copyright">
+                            Copyright © 2023 FrogBid. All rights reserved.
                         </p>
                     </div>
                 </div>

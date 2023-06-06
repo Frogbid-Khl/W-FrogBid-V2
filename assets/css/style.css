@@ -71,20 +71,20 @@ nav {
     text-shadow: 0 0 10px #fff, 0 0 20px #46aef7, 0 0 30px #46aef7, 0 0 40px #0361ac, 0 0 50px #0361ac, 0 0 60px #0361ac, 0 0 70px #0361ac;
 }
 
-.next-logo {
-    width: 100px;
+.frogbid-logo {
+    width: 185px;
 }
 
-.next-circle-btn {
+.frogbid-circle-btn {
     border-radius: 50%;
     background-image: linear-gradient(140deg, #0dccff, #4760ff);
 }
 
-.next-circle-btn:hover {
+.frogbid-circle-btn:hover {
     background-image: linear-gradient(140deg, #ffffff, #ffffff);
 }
 
-.next-btn-header {
+.frogbid-btn-header {
     font-family: 'BlackthornsRegular', serif;
     border-radius: 25px;
     font-weight: 550;
@@ -95,14 +95,14 @@ nav {
     border:3px solid #6cfffa;
 }
 
-.next-btn-header:hover {
+.frogbid-btn-header:hover {
     background: url("../images/button/btn-h.webp") no-repeat;
     background-size: cover;
     color: white;
     border:3px solid #6cfffa;
 }
 
-.next-btn-blog {
+.frogbid-btn-blog {
     font-family: 'BlackthornsRegular', serif;
     border-radius: 25px;
     font-weight: 550;
@@ -114,14 +114,14 @@ nav {
     font-size: 12px;
 }
 
-.next-btn-blog:hover {
+.frogbid-btn-blog:hover {
     background: url("../images/button/btn-h.webp") no-repeat;
     background-size: cover;
     color: white;
     border:3px solid #6cfffa;
 }
 
-.next-btn-footer {
+.frogbid-btn-footer {
     font-family: 'BlackthornsRegular', serif;
     border-radius: 25px;
     font-weight: 550;
@@ -133,14 +133,14 @@ nav {
     border:3px solid #6cfffa;
 }
 
-.next-btn-footer:hover {
+.frogbid-btn-footer:hover {
     background: url("../images/button/btn-h.webp") no-repeat;
     background-size: cover;
     color: white;
     border:3px solid #6cfffa;
 }
 
-.next-btn {
+.frogbid-btn {
     font-family: 'BlackthornsRegular', serif;
     border-radius: 25px;
     font-weight: 550;
@@ -166,14 +166,14 @@ nav {
     border: 3px solid #6cfffa;
 }
 
-.next-btn:hover,.contact-btn:hover {
+.frogbid-btn:hover,.contact-btn:hover {
     background: url("../images/button/btn-h.webp") no-repeat;
     background-size: cover;
     color: white;
     border:3px solid #6cfffa;
 }
 
-.next-banner {
+.frogbid-banner {
     background-image: url("../images/bg/intro.webp");
     background-size: cover;
     background-repeat: no-repeat;
@@ -181,26 +181,26 @@ nav {
     padding-bottom: 5rem;
 }
 
-.next-banner-header {
+.frogbid-banner-header {
     font-family: 'BlackthornsBlack', serif;
     color: white;
     font-size: 90px;
 }
 
-.next-banner-content-header{
+.frogbid-banner-content-header{
     font-family: 'HenjuBold', serif;
     font-size: 35px;
     color: white;
     margin-bottom: unset;
 }
 
-.next-banner-content {
+.frogbid-banner-content {
     font-family: 'HenjuBold', serif;
     font-size: 30px;
     color: white;
 }
 
-.next-banner-btn {
+.frogbid-banner-btn {
     font-family: 'BlackthornsBlack', serif;
     border-radius: 50px;
     font-weight: 700;
@@ -212,38 +212,38 @@ nav {
     border:3px solid #6cfffa;
 }
 
-.next-banner-btn:hover {
+.frogbid-banner-btn:hover {
     background: url("../images/button/btn-h.webp") no-repeat;
     background-size: cover;
     color: white;
     border:3px solid #6cfffa;
 }
 
-.next-banner-content-white {
+.frogbid-banner-content-white {
     font-family: 'HenjuBold', serif;
     font-size: 28px;
     color: white;
 }
 
-.next-banner-content-blue {
+.frogbid-banner-content-blue {
     font-family: 'HenjuBold', serif;
     font-size: 28px;
     color: #0dccff;
 }
 
-.next-about {
+.frogbid-about {
     background-image: url("../images/bg/about-nex.webp");
     background-size: cover;
     background-repeat: no-repeat;
     opacity: 0.9;
 }
 
-.next-about-header, .next-about-header-2, .next-about-header-3 {
+.frogbid-about-header, .frogbid-about-header-2, .frogbid-about-header-3 {
     font-family: 'BlackthornsBlack', serif;
     color: white;
 }
 
-.next-about-content-header {
+.frogbid-about-content-header {
     width: 290px;
     margin: auto;
     font-family: 'BlackthornsRegular', serif;
@@ -254,13 +254,13 @@ nav {
 
 }
 
-.next-about-content {
+.frogbid-about-content {
     font-family: 'HenjuBold', serif;
     font-size: 23px;
     color: white;
 }
 
-.next-primary-color {
+.frogbid-primary-color {
     background-image: linear-gradient(to right,#46aef7 0%, #1dd5e6 36%, #1c8ddc 65%, #04a0ad 100%);
     font-family: 'BlackthornsBlack', serif;
     -webkit-text-fill-color: transparent;
@@ -268,7 +268,7 @@ nav {
     -webkit-animation: hue 6s infinite linear;
 }
 
-.next-mobile-menu{
+.frogbid-mobile-menu{
     color: #1dd5e6;
 }
 
@@ -281,22 +281,22 @@ nav {
     }
 }
 
-.next-jura {
+.frogbid-jura {
     font-family: 'BlackthornsBlack', serif;
 }
 
-.next-hebrew {
+.frogbid-hebrew {
     font-family: 'MyriadHebrewRegular', serif;
     font-weight: 900;
     letter-spacing: 2px;
 }
 
-.next-hebrew-regular {
+.frogbid-hebrew-regular {
     font-family: 'MyriadHebrewRegular', serif;
     font-weight: 700;
 }
 
-.next-about-card {
+.frogbid-about-card {
     border:3px solid #46aef7;
     border-radius: 15px;
     margin: 8px;
@@ -305,7 +305,7 @@ nav {
     background: rgba(0, 0, 0, 0.3);
 }
 
-.next-about-card-body {
+.frogbid-about-card-body {
     padding: 0 10px 0 10px;
 }
 
@@ -319,16 +319,16 @@ nav {
     padding: unset;
 }
 
-.next-web-card {
+.frogbid-web-card {
     height: 250px;
     color: white;
 }
 
-.next-web-card-body {
+.frogbid-web-card-body {
     padding: 0 10px 0 10px;
 }
 
-.next-web-card:hover {
+.frogbid-web-card:hover {
     background-image: linear-gradient(180deg,#46aef76b,#00fcff);
     background-size: cover;
     color: black;
@@ -345,16 +345,16 @@ nav {
     padding: unset;
 }
 
-.next-graphic-card {
+.frogbid-graphic-card {
     height: 250px;
     color: white;
 }
 
-.next-graphic-card-body {
+.frogbid-graphic-card-body {
     padding: 0 10px 0 10px;
 }
 
-.next-graphic-card:hover {
+.frogbid-graphic-card:hover {
     background-image: linear-gradient(180deg,#01fec76b,#01fec7);
     background-size: cover;
     color: black;
@@ -371,51 +371,51 @@ nav {
     padding: unset;
 }
 
-.next-ai-card {
+.frogbid-ai-card {
     height: 250px;
     color: white;
 }
 
-.next-ai-card-body {
+.frogbid-ai-card-body {
     padding: 0 10px 0 10px;
 }
 
-.next-ai-card:hover {
+.frogbid-ai-card:hover {
     background-image: linear-gradient(180deg,#fd00a96b,#fd00a9);
     background-size: cover;
     color: black;
     border-radius: 12px;
 }
 
-.next-about-card-body:hover .next-logo-card-title {
+.frogbid-about-card-body:hover .frogbid-logo-card-title {
     color: black;
 }
 
-.next-card-title {
+.frogbid-card-title {
     font-family: 'OrbitronBlack', serif;
     font-size: 32px;
 }
 
-.next-card-content {
+.frogbid-card-content {
     font-family: 'MyriadHebrewRegular', serif;
     font-size: 17px;
     font-weight: 400;
 }
 
-.next-card-link {
+.frogbid-card-link {
     font-family: 'HenjuBold', serif;
 }
 
-.next-logo-card-title {
+.frogbid-logo-card-title {
     font-family: 'OrbitronBlack', serif;
     color: #01e4df;
 }
 
-.next-about-icon {
+.frogbid-about-icon {
     height: 85px;
 }
 
-.next-about-btn {
+.frogbid-about-btn {
     font-family: 'HenjuBold', serif;
     border-radius: 50px;
     font-weight: 700;
@@ -428,20 +428,20 @@ nav {
     margin-bottom: 10px;
 }
 
-.next-about-btn:hover {
+.frogbid-about-btn:hover {
     background: url("../images/button/btn-h.webp") no-repeat;
     background-size: cover;
     color: white;
     border:3px solid #6cfffa;
 }
 
-.next-offer{
+.frogbid-offer{
     background: black;
     color: white;
     padding: 15px;
 }
 
-.next-time{
+.frogbid-time{
     margin: auto;
     background: #43dee7;
     border: 2px solid white;
@@ -455,229 +455,229 @@ nav {
     font-family: 'HenjuBold',sans-serif;
 }
 
-.next-services {
+.frogbid-services {
     background-image: linear-gradient(270deg, #00a0b0d1, #2f68a2d1);
 }
 
-.next-service-title {
+.frogbid-service-title {
     font-family: 'OrbitronBlack', serif;
     color: white;
     font-size: 50px;
 }
 
-.next-service-content {
+.frogbid-service-content {
     font-family: 'HenjuBold', serif;
     color: white;
 }
 
-.next-choose-us {
+.frogbid-choose-us {
     background: rgba(2, 4, 27, 0.9);
 }
 
-.next-choose-bg {
+.frogbid-choose-bg {
     background: url("../images/why-choose-us/bg.png") no-repeat;
     background-size: cover;
     height: 920px;
 }
 
-.next-why-choose-content {
+.frogbid-why-choose-content {
     font-family: 'HenjuBold', serif;
     color: white;
 }
 
-.next-why-choose-title {
+.frogbid-why-choose-title {
     font-family: 'BlackthornsBlack', serif;
     color: white;
 }
 
-.next-why-choose-card-title {
+.frogbid-why-choose-card-title {
     font-family: 'BlackthornsBlack', serif;
     color: #01e4df;
 }
 
-.next-why-choose-card-content {
+.frogbid-why-choose-card-content {
     font-family: 'HenjuBold', serif;
     color: white;
 }
 
-.next-web {
+.frogbid-web {
     background: url("../images/bg/web.webp") no-repeat;
     background-size: cover;
 }
 
-.next-graphic {
+.frogbid-graphic {
     background: url("../images/bg/graphic.webp") no-repeat;
     background-size: cover;
 }
 
-.next-ai {
+.frogbid-ai {
     background: url("../images/bg/ai.webp") no-repeat;
     background-size: cover;
 }
 
-.next-work-gallery-big {
+.frogbid-work-gallery-big {
     border-image: url('../images/work/1.png') 20;
     border-style: solid;
     border-width: 12px 40px 14px 40px;
 }
 
-.next-work-gallery-small {
+.frogbid-work-gallery-small {
     border-image: url('../images/work/2.png') 20;
     border-style: solid;
     border-width: 12px 40px 14px 40px;
 }
 
-.next-work-content {
+.frogbid-work-content {
     font-family: 'HenjuBold', serif;
     font-size: 25px;
     color: white;
 }
 
-.next-work-title {
+.frogbid-work-title {
     font-family: 'BlackthornsBlack', serif;
     color: white;
     font-size: 60px;
 }
 
-.next-review-title {
+.frogbid-review-title {
     font-family: 'MyriadHebrewRegular', serif;
     color: white;
     font-size: 58px;
     font-weight: 700;
 }
 
-.next-work-title-footer {
+.frogbid-work-title-footer {
     font-family: 'BlackthornsBlack', serif;
     color: white;
 }
 
-.next-work-card-title {
+.frogbid-work-card-title {
     font-family: 'OrbitronBlack', serif;
     color: #01e4df;
 }
 
-.next-work-card-content {
+.frogbid-work-card-content {
     font-family: 'HenjuBold', serif;
     color: white;
     font-size: 20px;
 }
 
-.next-review {
+.frogbid-review {
     background: url("../images/bg/testimonial.webp") no-repeat;
     background-size: cover;
 }
 
-.next-review-panel-outer {
+.frogbid-review-panel-outer {
     border-image: url('../images/review/border.png') 20;
     border-style: solid;
     border-width: 15px 25px 18px 25px;
 }
 
-.next-review-panel-inner {
+.frogbid-review-panel-inner {
     background: #006ee952;
     padding: 25px 30px;
 }
 
-.next-reviewer-outer {
+.frogbid-reviewer-outer {
     background: url("../images/review/rectengular.png") no-repeat;
     background-size: contain;
     height: 80px;
 }
 
-.next-review-content {
+.frogbid-review-content {
     font-family: 'HenjuBold', serif;
     color: white;
     font-size: 25px;
     height: 130px;
 }
 
-.next-reviewer-name {
+.frogbid-reviewer-name {
     font-family: 'OrbitronBlack', serif;
     color: #01e4df;
 }
 
-.next-reviewer-post {
+.frogbid-reviewer-post {
     font-family: 'HenjuBold', serif;
     color: white;
 }
 
-.next-review-start {
+.frogbid-review-start {
     background-image: linear-gradient(30deg, #1887e9, #2dfbff, #e0fbff);
 }
 
-.next-review-start-title {
+.frogbid-review-start-title {
     font-size: 50px;
     font-family: 'OrbitronBlack', serif;
     color: white;
 }
 
-.next-review-start-content {
+.frogbid-review-start-content {
     font-family: 'HenjuBold', serif;
     color: white;
     font-size: 24px;
 }
 
-.next-footer {
+.frogbid-footer {
     background: url("../images/bg/footer.webp") no-repeat;
     background-size: cover;
 }
 
-.next-footer-content {
+.frogbid-footer-content {
     font-family: 'HenjuBold', serif;
     color: white;
     font-size: 24px;
 }
 
-.next-footer-title {
+.frogbid-footer-title {
     font-family: 'BlackthornsBlack', serif;
     color: white;
     font-size: 50px;
 }
 
-.next-footer-call {
+.frogbid-footer-call {
     font-family: 'HenjuBold', serif;
     color: white;
     font-size: 24px;
 }
 
-.next-footer-menu-outside {
+.frogbid-footer-menu-outside {
     border-top: 45px solid rgba(0, 120, 255, 0.41);
     border-bottom: 45px solid rgba(0, 120, 255, 0.41);
 }
 
-.next-footer-menu-inside {
+.frogbid-footer-menu-inside {
     background: rgba(0, 120, 255, 0.82);
 }
 
-.next-footer-copyright {
+.frogbid-footer-copyright {
     font-family: 'HenjuBold', serif;
     color: white;
 }
 
-.next-footer-menu-text {
+.frogbid-footer-menu-text {
     font-family: 'HenjuBold', serif;
     color: white;
     font-size: 28px;
 }
 
-.next-footer-menu-title {
+.frogbid-footer-menu-title {
     font-family: 'OrbitronBlack', serif;
     color: white;
     font-size: 28px;
 }
 
-.next-footer-card-title {
+.frogbid-footer-card-title {
     font-family: 'OrbitronBlack', serif;
     color: white;
 }
 
-.next-footer-card-content {
+.frogbid-footer-card-content {
     font-family: 'OrbitronBlack', serif;
     color: white;
     font-size: 12px;
 }
 
-ul.next-footer-menu-list {
+ul.frogbid-footer-menu-list {
     list-style: none;
     font-family: 'OrbitronBlack', serif;
     color: white;
@@ -690,22 +690,22 @@ ul.next-footer-menu-list {
 }
 
 
-.next-footer-social{
+.frogbid-footer-social{
     background: rgba(0, 0, 0, 0.5);
     color: white;
     padding: 15px;
 }
 
 @media only screen and (max-width: 550px) {
-    .next-hebrew {
+    .frogbid-hebrew {
         font-size: 17px;
     }
 
-    .next-hebrew-regular {
+    .frogbid-hebrew-regular {
         font-size: 25px;
     }
 
-    .next-time {
+    .frogbid-time {
         margin: auto;
         background: #43dee7;
         border: 2px solid white;
@@ -719,149 +719,149 @@ ul.next-footer-menu-list {
         font-family: 'HenjuBold',sans-serif;
     }
 
-    .next-banner-header {
+    .frogbid-banner-header {
         font-size: 35px;
         text-align: center;
     }
 
-    .next-banner-content {
+    .frogbid-banner-content {
         font-size: 15px;
         text-align: center;
     }
 
-    .next-banner-button-outer {
+    .frogbid-banner-button-outer {
         text-align: center;
     }
 
-    .next-banner-content-white {
+    .frogbid-banner-content-white {
         font-size: 14px;
     }
 
-    .next-banner-content-blue {
+    .frogbid-banner-content-blue {
         font-size: 14px;
     }
 
-    .next-about-header {
+    .frogbid-about-header {
         font-size: 24px;
     }
 
-    .next-about-header-2 {
+    .frogbid-about-header-2 {
         font-size: 20px;
     }
 
-    .next-about-content {
+    .frogbid-about-content {
         font-size: 14px;
     }
 
-    .next-about-header-3 {
+    .frogbid-about-header-3 {
         font-size: 22px;
     }
 
-    .next-banner-btn {
+    .frogbid-banner-btn {
         font-size: 15px;
         padding: 4px 30px;
     }
 
-    .next-about-btn {
+    .frogbid-about-btn {
         font-size: 15px;
         padding: 8px 30px 6px 30px;
         margin-top: 0.75em;
         width: 200px;
     }
 
-    .next-choose-bg {
+    .frogbid-choose-bg {
         height: 315px;
     }
 
-    .next-why-choose-title {
+    .frogbid-why-choose-title {
         font-size: 20px;
         text-align: center;
     }
 
-    .next-why-choose-content {
+    .frogbid-why-choose-content {
         padding-top: 1.5em;
         font-size: 14px;
         margin-bottom: unset;
         text-align: center;
     }
 
-    .next-work-content {
+    .frogbid-work-content {
         font-size: 15px;
     }
 
-    .next-work-title {
+    .frogbid-work-title {
         font-size: 30px;
     }
 
-    .next-review-content {
+    .frogbid-review-content {
         font-size: 15px;
     }
 
-    .next-reviewer-name {
+    .frogbid-reviewer-name {
         font-size: 12px;
         margin-bottom: unset;
     }
 
-    .next-reviewer-post{
+    .frogbid-reviewer-post{
         font-size: 9px;
     }
 
-    .next-review-start-title{
+    .frogbid-review-start-title{
         font-size: 25px;
     }
 
-    .next-review-start-content{
+    .frogbid-review-start-content{
         font-size: 16px;
     }
 
-    .next-footer-content{
+    .frogbid-footer-content{
         font-size: 16px;
     }
 
-    .next-review-title {
+    .frogbid-review-title {
         font-size: 30px;
     }
 
-    .next-footer-social-text {
+    .frogbid-footer-social-text {
         font-size: 15px;
     }
 
-    .next-footer-social-text-2 {
+    .frogbid-footer-social-text-2 {
         font-size: 10px !important;
     }
 
-    .next-btn{
+    .frogbid-btn{
         border-radius: 15px;
         font-size: 15px;
         width: 200px;
         padding: 6px 30px 6px 30px;
     }
 
-    .next-btn-footer {
+    .frogbid-btn-footer {
         font-size: 15px;
     }
 
-    .next-footer-title{
+    .frogbid-footer-title{
         font-size: 22px;
     }
 
-    .next-footer-call{
+    .frogbid-footer-call{
         font-size: 16px;
     }
 
-    .next-footer-menu-text{
+    .frogbid-footer-menu-text{
         margin-top: .75em;
         font-size: 16px;
         padding-left: 2.5em;
         padding-right: 2.5em;
     }
 
-    .next-footer-btn-outer{
+    .frogbid-footer-btn-outer{
         text-align: center;
         margin-bottom: 1.5em;
     }
 
-    .next-footer-copyright{
+    .frogbid-footer-copyright{
         font-size: 14px;
     }
 
@@ -869,7 +869,7 @@ ul.next-footer-menu-list {
         --bs-gutter-x: 0.5rem;
     }
 
-    .fa-solid.fa-bars.next-primary-color{
+    .fa-solid.fa-bars.frogbid-primary-color{
         font-size: 30px;
     }
 
@@ -877,16 +877,16 @@ ul.next-footer-menu-list {
         display: flex !important;
     }
 
-    .next-colapse-circle-btn {
+    .frogbid-colapse-circle-btn {
         border-radius: 50%;
         background-image: linear-gradient(140deg, #0dccff, #4760ff);
     }
 
-    .next-colapse-circle-btn:hover {
+    .frogbid-colapse-circle-btn:hover {
         background-image: linear-gradient(140deg, #ffffff, #ffffff);
     }
 
-    .next-colapse-btn{
+    .frogbid-colapse-btn{
         font-family: 'HenjuBold', serif;
         border-radius: 25px;
         font-weight: 700;
@@ -898,14 +898,14 @@ ul.next-footer-menu-list {
         border:3px solid #6cfffa;
     }
 
-    .next-colapse-btn:hover {
+    .frogbid-colapse-btn:hover {
         background: url("../images/button/btn-h.webp") no-repeat;
         background-size: cover;
         color: white;
         border:3px solid #6cfffa;
     }
 
-    .next-nav-icon{
+    .frogbid-nav-icon{
         display: none !important;
     }
 
@@ -1015,14 +1015,14 @@ ul.next-footer-menu-list {
         margin-top: 20px;
     }
 }
-.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev {
+.owl-carousel .owl-nav button.owl-frogbid, .owl-carousel .owl-nav button.owl-prev {
     outline: 0;
 }
 .owl-carousel button.owl-dot {
     outline: 0;
 }
 
-.next-form-card{
+.frogbid-form-card{
     border-radius: 25px;
     font-family: 'BlackthornsBlack', serif;
     font-size: 35px;
@@ -1039,7 +1039,7 @@ ul.next-footer-menu-list {
     opacity: 1; /* Firefox */
 }
 
-.next-form-input{
+.frogbid-form-input{
     border: 3px solid #0FEEFFCC;
     height: 50px;
     background: rgb(15 238 255 / 80%);
@@ -1050,23 +1050,23 @@ ul.next-footer-menu-list {
     font-size: 18px;
 }
 
-.next-form-input:focus {
+.frogbid-form-input:focus {
     color: black;
     background-color: #ffffff;
     border-color: #0FEEFFCC;
 }
 
-.next-footer-social-text{
+.frogbid-footer-social-text{
     font-family: 'HenjuBold', serif;
     font-size: 18px;
 }
 
-.next-footer-social-text-2{
+.frogbid-footer-social-text-2{
     font-family: 'HenjuBold', serif;
     font-size: 18px;
 }
 
-.next-section-title{
+.frogbid-section-title{
     font-family: 'BlackthornsBlack', serif;
     color: white;
 }
@@ -1208,15 +1208,15 @@ ul.next-footer-menu-list {
     text-shadow: 0 0 10px #fff, 0 0 20px #46e4ee, 0 0 30px #45e0e9, 0 0 40px #40e3e9, 0 0 50px #5fdbec, 0 0 60px #35e0e8, 0 0 70px #3de3ea;
 }
 
-.next-whatsapp{
+.frogbid-whatsapp{
     color: #00e52d;
 }
 
-.next-skype {
+.frogbid-skype {
     color: #46f8fe;
 }
 
-.next-title{
+.frogbid-title{
     background-image: url("../images/bg/ai.webp");
     background-size: cover;
     padding-top: 10rem;
@@ -1232,7 +1232,7 @@ ul.next-footer-menu-list {
 .slick-arrow:before {
     font-size: 50px;
 }
-.slick-next {
+.slick-frogbid {
     right: 0;
 }
 .slick-prev {
@@ -1257,7 +1257,7 @@ ul.next-footer-menu-list {
     }
 }
 
-.next-contact-card{
+.frogbid-contact-card{
     background: #46e4ee;
 }
 
@@ -1309,7 +1309,7 @@ ul.next-footer-menu-list {
     font-family: 'BlackthornsBold',sans-serif;
 }
 
-.next-modal-card{
+.frogbid-modal-card{
     border-radius: 25px;
     font-family: 'BlackthornsBlack', serif;
     font-size: 35px;
@@ -1321,19 +1321,19 @@ ul.next-footer-menu-list {
     box-shadow: 0 0 5px 5px rgba(15,238,255,1);
 }
 
-.next-message-title{
+.frogbid-message-title{
     font-family: 'BlackthornsBold',sans-serif;
     color: #ffffff;
     font-size: 20px;
 }
 
-.next-message-caption{
+.frogbid-message-caption{
     font-family: 'HenjuBold',sans-serif;
     color: #ffffff;
     font-size: 15px;
 }
 
-.next-modal-btn{
+.frogbid-modal-btn{
     font-family: 'HenjuBold', serif;
     border-radius: 15px;
     font-weight: 700;
@@ -1345,7 +1345,7 @@ ul.next-footer-menu-list {
     border:3px solid #6cfffa;
 }
 
-.next-blog.active{
+.frogbid-blog.active{
     font-family: 'BlackthornsRegular', serif;
     border-radius: 25px 10px;
     font-weight: 550;

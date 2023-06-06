@@ -5,24 +5,24 @@
     <meta content="width=device-width, initial-scale=1" name="viewport">
 
     <meta name="description"
-          content="Next Info Techs (NEX) focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, Next Info Techs offers a one-stop shop for all of a company's digital needs.">
-    <meta name="keywords" content="AI, WEB2, WEB3, Automation, Next Info Tech">
-    <meta name="author" content="Next Info Tech">
+          content="FrogBid (NEX) focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, FrogBid offers a one-stop shop for all of a company's digital needs.">
+    <meta name="keywords" content="AI, WEB2, WEB3, Automation, frogbid Info Tech">
+    <meta name="author" content="frogbid Info Tech">
 
-    <meta property="og:title" content="NEXT INFO TECHS | AI, WEB2, WEB3 & Automation TECH"/>
+    <meta property="og:title" content="FrogBid | AI, WEB2, WEB3 & Automation TECH"/>
     <meta property="og:description"
-          content="Next Info Techs (NEX) focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, Next Info Techs offers a one-stop shop for all of a company's digital needs."/>
-    <meta content="http://nextinfotechs.com/assets/images/desktop/background.png" property="og:image"/>
+          content="FrogBid (NEX) focus on delivering cutting-edge technology and exceptional customer service expertise in Web2, Web3, NFT, Database, website and landing page design, graphic design, and social media marketing, FrogBid offers a one-stop shop for all of a company's digital needs."/>
+    <meta content="http://frogbidinfotechs.com/assets/images/desktop/background.png" property="og:image"/>
     <meta content="image/png" property="og:image:type"/>
     <meta content="1920" property="og:image:width"/>
     <meta content="1227" property="og:image:height"/>
-    <meta content="Next Info Techs Limited" property="og:image:alt"/>
-    <meta content="Next Info Techs Limited" property="og:description"/>
-    <meta content="https://nextinfotechs.com/" property="og:url"/>
+    <meta content="FrogBid" property="og:image:alt"/>
+    <meta content="FrogBid" property="og:description"/>
+    <meta content="https://frogbid.com/" property="og:url"/>
     <meta content="website" property="og:type"/>
 
 
-    <title>Blog | NEXT INFO TECHS</title>
+    <title>Blog | FrogBid</title>
     <link href="assets/images/logo/favicon.ico" rel="icon" type="image/x-icon">
 
     <link href="assets/vendor/Bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
@@ -31,7 +31,7 @@
     <link href="assets/css/style.css" rel="stylesheet"/>
 
     <style>
-        .next-work-title {
+        .frogbid-work-title {
             font-size: 30px;
         }
     </style>
@@ -42,17 +42,17 @@
 <header>
     <nav class="navbar navbar-expand-lg bg-nav fixed-top">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><img alt="" class="img-fluid next-logo"
-                                                  src="assets/images/logo/NEXT-logo.png"/></a>
+            <a class="navbar-brand" href="#"><img alt="" class="img-fluid frogbid-logo"
+                                                  src="assets/images/logo/frogbid-logo.png"/></a>
             <!--<div class="collapse-social-icons" style="position: inherit;margin-right: .75em;margin-left: auto">
                 <form class="d-flex" role="search">
-                    <a class="btn btn-success next-colapse-btn">Get started</a>
+                    <a class="btn btn-success frogbid-colapse-btn">Get started</a>
                 </form>
             </div>-->
             <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
                     class="navbar-toggler" data-bs-target="#navbarSupportedContent"
                     data-bs-toggle="collapse" type="button">
-                <i class="fa-solid fa-bars next-mobile-menu mobile-nav-icon"></i>
+                <i class="fa-solid fa-bars frogbid-mobile-menu mobile-nav-icon"></i>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0" id="myNav">
@@ -75,8 +75,8 @@
                         <a class="nav-link" href="Contact">CONTACT</a>
                     </li>
                 </ul>
-                <form class="d-flex next-nav-icon" role="search">
-                    <a class="btn btn-success next-btn-blog"
+                <form class="d-flex frogbid-nav-icon" role="search">
+                    <a class="btn btn-success frogbid-btn-blog"
                        href="https://api.whatsapp.com/message/VBCGRP7FAFCOD1?autoload=1&app_absent=0">
                         Get started
                     </a>
@@ -88,28 +88,28 @@
 <!-- Header End -->
 
 <!-- Title Start -->
-<section class="next-title">
-    <h1 class="text-center next-work-title text-white">Blog</h1>
+<section class="frogbid-title">
+    <h1 class="text-center frogbid-work-title text-white">Blog</h1>
 </section>
 <!-- Title End -->
 
 <!-- Contact Start -->
-<section class="next-web">
+<section class="frogbid-web">
     <div class="container pt-5">
         <div class="nav-scroller py-1 mb-2">
             <div class="nav d-flex justify-content-between">
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">World</a>
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">U.S.</a>
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">Technology</a>
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">Design</a>
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">Culture</a>
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">Business</a>
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">Politics</a>
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">Opinion</a>
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">Science</a>
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">Health</a>
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">Style</a>
-                <a class="p-2 text-decoration-none text-white next-blog" href="#">Travel</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">World</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">U.S.</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">Technology</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">Design</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">Culture</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">Business</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">Politics</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">Opinion</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">Science</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">Health</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">Style</a>
+                <a class="p-2 text-decoration-none text-white frogbid-blog" href="#">Travel</a>
             </div>
         </div>
 
@@ -120,7 +120,7 @@
                     <p class="lead my-3">Multiple lines of text that form the lede, informing new readers quickly and
                         efficiently about what's most interesting in this post's contents.</p>
                     <p class="lead mb-0">
-                        <a class="btn btn-success next-btn-footer mt-3" href="#">
+                        <a class="btn btn-success frogbid-btn-footer mt-3" href="#">
                             Continue reading <i class="fa-solid fa-angle-right"></i>
                         </a>
                     </p>
@@ -147,7 +147,7 @@
                                 <p class="card-text mb-auto">This is a wider card with supporting text below as a
                                     natural
                                     lead-in to additional content.</p>
-                                <a class="btn btn-success next-btn-blog mt-3" href="#">
+                                <a class="btn btn-success frogbid-btn-blog mt-3" href="#">
                                     Continue reading <i class="fa-solid fa-angle-right"></i>
                                 </a>
                             </div>
@@ -166,7 +166,7 @@
                                 <p class="card-text mb-auto">This is a wider card with supporting text below as a
                                     natural
                                     lead-in to additional content.</p>
-                                <a class="btn btn-success next-btn-blog mt-3" href="#">
+                                <a class="btn btn-success frogbid-btn-blog mt-3" href="#">
                                     Continue reading <i class="fa-solid fa-angle-right"></i>
                                 </a>
                             </div>
@@ -185,7 +185,7 @@
                                 <p class="card-text mb-auto">This is a wider card with supporting text below as a
                                     natural
                                     lead-in to additional content.</p>
-                                <a class="btn btn-success next-btn-blog mt-3" href="#">
+                                <a class="btn btn-success frogbid-btn-blog mt-3" href="#">
                                     Continue reading <i class="fa-solid fa-angle-right"></i>
                                 </a>
                             </div>
@@ -204,7 +204,7 @@
                                 <p class="card-text mb-auto">This is a wider card with supporting text below as a
                                     natural
                                     lead-in to additional content.</p>
-                                <a class="btn btn-success next-btn-blog mt-3" href="#">
+                                <a class="btn btn-success frogbid-btn-blog mt-3" href="#">
                                     Continue reading <i class="fa-solid fa-angle-right"></i>
                                 </a>
                             </div>
@@ -257,7 +257,7 @@
                         <p class="card-text mb-auto">This is a wider card with supporting text below as a
                             natural
                             lead-in to additional content.</p>
-                        <a class="btn btn-success next-btn-blog mt-3" href="#">
+                        <a class="btn btn-success frogbid-btn-blog mt-3" href="#">
                             Continue reading <i class="fa-solid fa-angle-right"></i>
                         </a>
                     </div>
@@ -276,7 +276,7 @@
                         <p class="card-text mb-auto">This is a wider card with supporting text below as a
                             natural
                             lead-in to additional content.</p>
-                        <a class="btn btn-success next-btn-blog mt-3" href="#">
+                        <a class="btn btn-success frogbid-btn-blog mt-3" href="#">
                             Continue reading <i class="fa-solid fa-angle-right"></i>
                         </a>
                     </div>
@@ -295,7 +295,7 @@
                         <p class="card-text mb-auto">This is a wider card with supporting text below as a
                             natural
                             lead-in to additional content.</p>
-                        <a class="btn btn-success next-btn-blog mt-3" href="#">
+                        <a class="btn btn-success frogbid-btn-blog mt-3" href="#">
                             Continue reading <i class="fa-solid fa-angle-right"></i>
                         </a>
                     </div>
@@ -314,7 +314,7 @@
                         <p class="card-text mb-auto">This is a wider card with supporting text below as a
                             natural
                             lead-in to additional content.</p>
-                        <a class="btn btn-success next-btn-blog mt-3" href="#">
+                        <a class="btn btn-success frogbid-btn-blog mt-3" href="#">
                             Continue reading <i class="fa-solid fa-angle-right"></i>
                         </a>
                     </div>
@@ -333,7 +333,7 @@
                         <p class="card-text mb-auto">This is a wider card with supporting text below as a
                             natural
                             lead-in to additional content.</p>
-                        <a class="btn btn-success next-btn-blog mt-3" href="#">
+                        <a class="btn btn-success frogbid-btn-blog mt-3" href="#">
                             Continue reading <i class="fa-solid fa-angle-right"></i>
                         </a>
                     </div>
@@ -352,7 +352,7 @@
                         <p class="card-text mb-auto">This is a wider card with supporting text below as a
                             natural
                             lead-in to additional content.</p>
-                        <a class="btn btn-success next-btn-blog mt-3" href="#">
+                        <a class="btn btn-success frogbid-btn-blog mt-3" href="#">
                             Continue reading <i class="fa-solid fa-angle-right"></i>
                         </a>
                     </div>
@@ -364,13 +364,13 @@
 <!-- Contact End -->
 
 <!-- Footer Start -->
-<section class="next-footer">
+<section class="frogbid-footer">
     <!-- Press Start -->
     <section class="container-fluid">
         <div class="row">
             <div class="col-lg-12 mt-3">
                 <div class="mt-5 mb-5">
-                    <div class="text-center next-section-title">
+                    <div class="text-center frogbid-section-title">
                         <h1>PRESS & MEDIA</h1>
                     </div>
                 </div>
@@ -392,41 +392,41 @@
     </section>
     <!-- Press End -->
     <div class="container pt-5 pb-5 text-center" id="contact">
-        <p class="next-footer-content">
+        <p class="frogbid-footer-content">
             LET'S WORK TOGETHER
         </p>
-        <h1 class="next-footer-title">
+        <h1 class="frogbid-footer-title">
             WE LOVE TO LISTEN TO <br/>
             YOUR REQUIREMENTS
         </h1>
-        <a class="btn btn-success next-btn-footer mt-3" href="#">
+        <a class="btn btn-success frogbid-btn-footer mt-3" href="#">
             Estimate project <i class="fa-solid fa-angle-right"></i>
         </a>
-        <p class="mt-4 next-footer-call">
+        <p class="mt-4 frogbid-footer-call">
             Or mail us now <br class="d-lg-none d-block"/>
-            <i class="fa-solid fa-envelope"></i> contact@nextinfotechs.com
+            <i class="fa-solid fa-envelope"></i> contact@frogbid.com
         </p>
     </div>
-    <div class="next-footer-social">
+    <div class="frogbid-footer-social">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6 text-lg-start text-center">
-                    <p class="next-footer-social-text">
+                    <p class="frogbid-footer-social-text">
                         <a class="footer-nav-link"
                            href="https://api.whatsapp.com/message/VBCGRP7FAFCOD1?autoload=1&app_absent=0"
                            target="_blank">
-                            <span class="next-whatsapp">Whatsapp:</span> +1 (646) 631-1557
+                            <span class="frogbid-whatsapp">Whatsapp:</span> +1 (646) 631-1557
                         </a>
                         &nbsp;
                         <span class="d-md-inline d-none">|</span>
                         &nbsp;
                         <a class="footer-nav-link" href="https://join.skype.com/invite/whLjFofI5M1I" target="_blank">
-                            <span class="next-skype">Skype:</span> live:.cid.6cb903025cfa5585
+                            <span class="frogbid-skype">Skype:</span> live:.cid.6cb903025cfa5585
                         </a>
                     </p>
                 </div>
                 <div class="col-lg-6 text-lg-end text-center">
-                    <p class="next-footer-social-text-2">
+                    <p class="frogbid-footer-social-text-2">
                         <a class="footer-nav-link" href="Contact">
                             Contact Us
                         </a>
@@ -466,13 +466,13 @@
                                 </a>
                             </div>
                             <div class="col-2 me-auto">
-                                <a href="mailto:contatc@nextinfotechs.com">
+                                <a href="mailto:contatc@frogbidinfotechs.com">
                                     <img alt="" class="img-fluid" src="assets/images/contact/icon/email2.png"/>
                                 </a>
                             </div>
                         </div>
-                        <p class="mt-3 next-footer-copyright">
-                            Copyright © 2023 Next info Techs Limited. All rights reserved.
+                        <p class="mt-3 frogbid-footer-copyright">
+                            Copyright © 2023 FrogBid. All rights reserved.
                         </p>
                     </div>
                 </div>
