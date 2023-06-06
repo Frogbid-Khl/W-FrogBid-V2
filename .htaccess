@@ -1,0 +1,24 @@
+ErrorDocument 404 https://nextinfotechs.com/404
+
+RewriteEngine on
+
+RewriteRule ^Home index.php [NE,L]
+
+RewriteRule ^Contact contact.php [NE,L]
+
+RewriteRule ^Terms-and-Condition terms-and-condition.php [NE,L]
+
+RewriteRule ^Privacy-Policy privacy-policy.php [NE,L]
+
+RewriteRule ^FAQ faq.php [NE,L]
+
+RewriteRule ^Blog\-Details(.*) blog-details.php$1
+
+RewriteRule ^Blog blog.php [NE,L]
+
+RewriteRule ^Data data.php [NE,L]
+
+RewriteRule ^404 404.php [NE,L]
+
+
+
