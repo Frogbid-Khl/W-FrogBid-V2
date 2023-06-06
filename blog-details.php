@@ -158,7 +158,7 @@ $db_handle = new DBController();
             <div class="col-lg-12 mt-3">
                 <div class="mt-5 mb-5">
                     <div class="text-center frogbid-section-title">
-                        <h1>PRESS & MEDIA</h1>
+                        <h1>OUR CLIENTS</h1>
                     </div>
                 </div>
             </div>
