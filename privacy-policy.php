@@ -305,17 +305,17 @@
                     <div class="col-lg-6 mx-auto text-center">
                         <div class="row">
                             <div class="col-2 ms-auto">
-                                <a href="https://www.facebook.com/">
+                                <a href="https://www.facebook.com/frogbid">
                                     <img alt="" class="img-fluid" src="assets/images/contact/icon/facebook.png"/>
                                 </a>
                             </div>
                             <div class="col-2">
-                                <a href="https://www.instagram.com/">
+                                <a href="https://www.instagram.com/frog_bid/">
                                     <img alt="" class="img-fluid" src="assets/images/contact/icon/instagram.png"/>
                                 </a>
                             </div>
                             <div class="col-2 me-auto">
-                                <a href="mailto:contatc@frogbidinfotechs.com">
+                                <a href="mailto:contat@frogbid.com">
                                     <img alt="" class="img-fluid" src="assets/images/contact/icon/email2.png"/>
                                 </a>
                             </div>
